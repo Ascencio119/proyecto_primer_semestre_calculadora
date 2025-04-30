@@ -1,4 +1,4 @@
-# proyecto calculadora 
+# Proyecto calculadora 
 
 ### Descriptión 
 
@@ -12,7 +12,7 @@ Este proyecto consiste en una calculadora capaz de realizar operaciones basicas 
 Esta dirigido principalmente en aprender logica de programacion y estructuras basicas.
 
 
-### Caracteristicas principales
+### main characteristics
 
 -Operadores: Suma, resta, multiplicacion y division
 
@@ -39,14 +39,16 @@ java
 
 -ver resultado
 
-### Requisitos 
+### Requirements
 
 -Tener hardware
 
 -saber ejecutar un programa
 
-###  Autores
+-Tener un proposito 
+
+###  Authors
 
 Kevin Ascencio
 
-Desarrollado como parte de la clase de FUNDAMENTOS 
+Desarrollado como parte de la clase de fundamentos dirigida por Ana Galarza
