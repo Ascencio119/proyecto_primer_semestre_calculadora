@@ -25,9 +25,9 @@ Está dirigido principalmente en aprender lógica de programación y estructuras
 ### Estructura del Proyecto
 
 
-`html`
+`html` estructura del interfaz  
 
-`javascript`
+`javascript` contiene las logicas de las operaciones basicas de matematicas
 
 ### Como ejecutar el proyecto
 
