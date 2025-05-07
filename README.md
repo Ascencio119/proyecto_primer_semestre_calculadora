@@ -24,18 +24,18 @@ Está dirigido principalmente en aprender lógica de programación y estructuras
 
 ### Estructura del Proyecto
 
--visual studio
--html
--java
+
+`html`
+`javascript`
 
 ### Como ejecutar el proyecto
 
--Abre el archivo en el entorno correspondiente
-
+-Abre aplicacion visual studio
+-Abre la carpeta donde estan los archivos 
+-Abre el archivo en el entorno correspondiente (archivo vista.html)
+-Una vez ingresado a la pestaña, le das click derecho y seleccionas one with live server
 -se ejecuta el programa
-
--se ingresa los números y la operación deseada 
-
+-ya que este en el navegador, ingresa los números y la operación deseada 
 -ver resultado
 
 ### Requirements
@@ -47,8 +47,7 @@ Está dirigido principalmente en aprender lógica de programación y estructuras
 -Tener un propósito 
 
 
-###  Authorsgit
-
+###  Authors
 Kevin Ascencio
 
 Desarrollado como parte de la clase de fundamentos dirigida por Ana Galarza
