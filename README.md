@@ -26,16 +26,23 @@ Está dirigido principalmente en aprender lógica de programación y estructuras
 
 
 `html`
+
 `javascript`
 
 ### Como ejecutar el proyecto
 
 -Abre aplicacion visual studio
+
 -Abre la carpeta donde estan los archivos 
+
 -Abre el archivo en el entorno correspondiente (archivo vista.html)
+
 -Una vez ingresado a la pestaña, le das click derecho y seleccionas one with live server
+
 -se ejecuta el programa
+
 -ya que este en el navegador, ingresa los números y la operación deseada 
+
 -ver resultado
 
 ### Requirements
